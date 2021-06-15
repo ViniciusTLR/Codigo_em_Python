@@ -1,0 +1,6 @@
+variavel = input('Digite algo: ')
+print(type(variavel))
+print(variavel.isalnum())
+print(variavel.isalpha())
+print(variavel.isascii())
+print(variavel.isdecimal())
